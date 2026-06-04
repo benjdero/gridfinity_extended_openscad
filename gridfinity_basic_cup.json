@@ -1512,7 +1512,7 @@
             "vertical_separator_bend_separation": "0",
             "vertical_separator_config": "10.5|21|42|50|60",
             "vertical_separator_cut_depth": "0",
-            "wall_thickness": "0.62",
+            "wall_thickness": "1.24",
             "wallcutout_horizontal": "disabled",
             "wallcutout_horizontal_angle": "70",
             "wallcutout_horizontal_corner_radius": "5",
